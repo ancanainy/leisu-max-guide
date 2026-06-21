@@ -1,2 +1,14 @@
 # leisu-max-guide
-HTML page archive and documentation
+
+自动发布文件目录
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
